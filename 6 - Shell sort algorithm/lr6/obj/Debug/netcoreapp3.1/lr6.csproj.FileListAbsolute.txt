@@ -1,0 +1,13 @@
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.exe
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.deps.json
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.runtimeconfig.json
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.runtimeconfig.dev.json
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.dll
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.pdb
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.csprojAssemblyReference.cache
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.AssemblyInfoInputs.cache
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.AssemblyInfo.cs
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.csproj.CoreCompileInputs.cache
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.dll
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.pdb
+D:\!_Education\2 semestr\asd\labs\6\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.genruntimeconfig.cache

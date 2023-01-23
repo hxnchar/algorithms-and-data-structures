@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+DkiUd5lybup7g8ZnAmfwr4rLxKeOrnAOMCihD2uY95558XwIs5UZTe5LHAIJwlMKNEJ74A8Tib4myj18rbDFw==",
+  "success": true,
+  "projectFilePath": "D:\\Education\\ASD\\1\\lab1\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksey Honchar\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

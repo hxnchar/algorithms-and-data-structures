@@ -1,0 +1,16 @@
+D:\Education\ASD\1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\Education\ASD\1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\Education\ASD\1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\Education\ASD\1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\Education\ASD\1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\Education\ASD\1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\Education\ASD\1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+D:\Education\ASD\1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\ASD\1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\Education\ASD\1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\Education\ASD\1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\Education\ASD\1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\Education\ASD\1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+D:\Education\ASD\1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+D:\Education\ASD\1\lab1\lab1\bin\Debug\netcoreapp3.1\PriorityQueue.dll
+D:\Education\ASD\1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CopyComplete

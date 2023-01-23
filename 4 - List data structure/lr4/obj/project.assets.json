@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\!_Education\\2 semestr\\asd\\labs\\4\\lr4\\lr4\\lr4.csproj",
+      "projectUniqueName": "D:\\!_Education\\2 semestr\\asd\\labs\\4 fixed\\lr4\\lr4\\lr4.csproj",
       "projectName": "lr4",
-      "projectPath": "D:\\!_Education\\2 semestr\\asd\\labs\\4\\lr4\\lr4\\lr4.csproj",
+      "projectPath": "D:\\!_Education\\2 semestr\\asd\\labs\\4 fixed\\lr4\\lr4\\lr4.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "D:\\!_Education\\2 semestr\\asd\\labs\\4\\lr4\\lr4\\obj\\",
+      "outputPath": "D:\\!_Education\\2 semestr\\asd\\labs\\4 fixed\\lr4\\lr4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

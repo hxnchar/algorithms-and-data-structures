@@ -30,33 +30,31 @@ namespace lr4
 
         public static void OutList(MyList<string> list)
         {
-            for (int i = 0; i <= list.Head; i++)
+            Node<string> current = list.Head;
+            while (current.Next != null)
             {
-                Console.WriteLine(list.GetElement(i));
+                Console.WriteLine(current.Value);
+                current = current.Next;
             }
+            Console.WriteLine(current.Value);
         }
 
         public static void DeleteSameWords(MyList<string> list)
         {
-            bool someDeleted;
-            for (int i = 0; i <= list.Head; i++)
+            Node<string> current = list.Head;
+            Node<string> next;
+            while (current != null)
             {
-                someDeleted = false;
-                for (int j = i+1; j <= list.Head; j++)
+                next = current.Next;
+                while (next != null)
                 {
-                    if (list.GetElement(i) == list.GetElement(j))
+                    if (next.Value == current.Value)
                     {
-                        someDeleted = true;
-                        list.Remove(j);
-                        j--;
+                        list.Remove(current.Value);
                     }
+                    next = next.Next;
                 }
-                if (someDeleted)
-                {
-                    list.Remove(i);
-                    i--;
-                }
-
+                current = current.Next;
             }
         }
     }

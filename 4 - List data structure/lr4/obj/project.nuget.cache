@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uy+Wn/mI/awXAzhOOU0swI3JZHj11P0keuW3su9P25JcvQND9EPhAOW5fmWuW0LM9HRRY73VNZmuqzwOV0PkoA==",
+  "dgSpecHash": "W79vF+iaLG66HPjifS0GhIUOxRQMt8LKGuC8rPTdOSe9lv6v+D1fpEvYryxQsTnwjTOr5THFQz5+vs1n4riUBQ==",
   "success": true,
-  "projectFilePath": "D:\\!_Education\\2 semestr\\asd\\labs\\4\\lr4\\lr4\\lr4.csproj",
+  "projectFilePath": "D:\\!_Education\\2 semestr\\asd\\labs\\4 fixed\\lr4\\lr4\\lr4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
   ],

@@ -1,51 +1,48 @@
-﻿namespace lr4
+﻿public class MyList<T>
 {
-    public class MyList<T>
+    public Node<T> Head { get; private set; }
+    public Node<T> Tail { get; private set; }
+
+    public int Count { get; set; }
+
+    public void Add(T value)
     {
-        private int _capacity;
-        private T[] _list;
-        private int _head;
-
-        public int Head
+        Node<T> node = new Node<T>(value);
+        if (Head == null)
         {
-            get => _head;
+            Head = node;
         }
-
-        public MyList()
+        else
         {
-            _capacity = 1;
-            _list = new T[_capacity];
-            _head = -1;
+            Tail.Next = node;
         }
+        Tail = node;
+        Count++;
+    }
 
-        public void Add(T item)
+    public void Remove(T value)
+    {
+        Node<T> current = Head;
+        Node<T> previous = null;
+
+        while (current != null)
         {
-            if (_head + 1 == _capacity)
+            if (current.Value.Equals(value))
             {
-                _capacity *= 2;
-                T[] newList = new T[_capacity];
-                for (int i = 0; i < _list.Length; i++)
+                if (previous == null)
                 {
-                    newList[i] = _list[i];
+                    Head = current.Next;
                 }
-                _list = newList;
+                else
+                {
+                    previous.Next = current.Next;
+                }
             }
-            _list[++_head] = item;
-        }
-
-        public void Remove(int index)
-        {
-            T item = _list[index];
-            for (int i = index; i < _head; i++)
+            else
             {
-                _list[i] = _list[i + 1];
+                previous = current;
             }
-            _head--;
-        }
-
-        public T GetElement(int index)
-        {
-            return _list[index];
+            current = current.Next;
         }
     }
 }

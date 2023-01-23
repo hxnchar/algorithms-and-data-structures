@@ -1,0 +1,14 @@
+D:\Education\ASD\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+D:\Education\ASD\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+D:\Education\ASD\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+D:\Education\ASD\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+D:\Education\ASD\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+D:\Education\ASD\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+D:\Education\ASD\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.AssemblyReference.cache
+D:\Education\ASD\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\ASD\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+D:\Education\ASD\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+D:\Education\ASD\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+D:\Education\ASD\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+D:\Education\ASD\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+D:\Education\ASD\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache

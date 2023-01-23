@@ -1,0 +1,14 @@
+D:\Education\ASD\lab4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+D:\Education\ASD\lab4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+D:\Education\ASD\lab4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+D:\Education\ASD\lab4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+D:\Education\ASD\lab4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+D:\Education\ASD\lab4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+D:\Education\ASD\lab4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.AssemblyReference.cache
+D:\Education\ASD\lab4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\ASD\lab4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+D:\Education\ASD\lab4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+D:\Education\ASD\lab4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+D:\Education\ASD\lab4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+D:\Education\ASD\lab4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+D:\Education\ASD\lab4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
